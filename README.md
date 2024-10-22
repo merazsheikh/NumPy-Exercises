@@ -68,7 +68,8 @@ x.size  # returns 5, as the array has 5 elements
 sample_2darray = np.array([[1,2,3,4],[5,6,7,8],[9,10,11,12]])
 np.flip(sample_2darray, axis=0)
 ```
-License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
